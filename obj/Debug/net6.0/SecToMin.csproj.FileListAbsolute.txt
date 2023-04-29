@@ -1,0 +1,15 @@
+C:\Users\Nahdaa\Documents\Projects\SecToMin\bin\Debug\net6.0\SecToMin.exe
+C:\Users\Nahdaa\Documents\Projects\SecToMin\bin\Debug\net6.0\SecToMin.deps.json
+C:\Users\Nahdaa\Documents\Projects\SecToMin\bin\Debug\net6.0\SecToMin.runtimeconfig.json
+C:\Users\Nahdaa\Documents\Projects\SecToMin\bin\Debug\net6.0\SecToMin.dll
+C:\Users\Nahdaa\Documents\Projects\SecToMin\bin\Debug\net6.0\SecToMin.pdb
+C:\Users\Nahdaa\Documents\Projects\SecToMin\obj\Debug\net6.0\SecToMin.csproj.AssemblyReference.cache
+C:\Users\Nahdaa\Documents\Projects\SecToMin\obj\Debug\net6.0\SecToMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahdaa\Documents\Projects\SecToMin\obj\Debug\net6.0\SecToMin.AssemblyInfoInputs.cache
+C:\Users\Nahdaa\Documents\Projects\SecToMin\obj\Debug\net6.0\SecToMin.AssemblyInfo.cs
+C:\Users\Nahdaa\Documents\Projects\SecToMin\obj\Debug\net6.0\SecToMin.csproj.CoreCompileInputs.cache
+C:\Users\Nahdaa\Documents\Projects\SecToMin\obj\Debug\net6.0\SecToMin.dll
+C:\Users\Nahdaa\Documents\Projects\SecToMin\obj\Debug\net6.0\refint\SecToMin.dll
+C:\Users\Nahdaa\Documents\Projects\SecToMin\obj\Debug\net6.0\SecToMin.pdb
+C:\Users\Nahdaa\Documents\Projects\SecToMin\obj\Debug\net6.0\SecToMin.genruntimeconfig.cache
+C:\Users\Nahdaa\Documents\Projects\SecToMin\obj\Debug\net6.0\ref\SecToMin.dll
